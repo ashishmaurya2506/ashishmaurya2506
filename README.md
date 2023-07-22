@@ -1,22 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-<h1 align="center">Hi there 👋, I'm Prince</h1>
+<h1 align="center">Hi there 👋, I'm Ashish Maurya</h1>
 <h3 align="center">I'm a post-graduated Information Technology student from IIIT Gwalior, a Software Engineer focused on growing as a Developer and who loves to code.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princee215&label=Profile%20views&color=0e75b6&style=flat" alt="princee215" /> </p>
 
-- 🔭 I’m currently working on [Software-discovery-tool](https://github.com/openmainframeproject/software-discovery-tool)
+
 
 - 🌱 I’m currently learning **Python, Flask, and MariaDB**
 
 - 💬 Ask me about **C++, React, and Javascript**
 
-- 📫 How to reach me **princeesingh215@gmail.com**
+- 📫 How to reach me **ashishmaurya250699@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/princesingh215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princesingh215" height="30" width="40" /></a>
-<a href="https://instagram.com/i.ammprincee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.ammprincee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish2506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishmaurya2506" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
