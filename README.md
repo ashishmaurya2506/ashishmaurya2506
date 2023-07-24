@@ -6,7 +6,7 @@ I'm a post-graduated Information Technology student from IIIT Gwalior, a Softwar
 
 ![Coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
-🌱 I’m currently learning **Python, Flask, and MariaDB**
+🌱 I’m currently learning **Front-end Development**
 
 💬 Ask me about **C++, React, and Javascript**
 
